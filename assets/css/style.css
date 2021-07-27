@@ -19,3 +19,7 @@ body {
 #list .card-body {
   background: #ffffff;
 }
+.wifi_list {
+  height: 48vh;
+  overflow-y: auto;
+}
