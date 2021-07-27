@@ -1,0 +1,21 @@
+* {
+  font-family: Montserrat;
+}
+body {
+  font-weight: 400;
+}
+.bg-black {
+  background-color: #000000 !important;
+}
+#list #title h4 {
+  color: #b3121a;
+}
+#list .card {
+  background: url(../img/border.png);
+}
+#list .card-header {
+  background: #ffffff;
+}
+#list .card-body {
+  background: #ffffff;
+}
